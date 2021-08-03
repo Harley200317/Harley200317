@@ -14,4 +14,3 @@
 
 
 ![https://discord.com/users/251736315001831425](https://discord-md-badge.vercel.app/api/shield/251736315001831425?theme=discord)
-![](https://komarev.com/ghpvc/?username=Harley200317&color=green)
