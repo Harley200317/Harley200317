@@ -19,6 +19,6 @@
 
 ![https://discord.com/users/251736315001831425](https://discord-md-badge.vercel.app/api/shield/251736315001831425?theme=discord)
 
-[![Infinity Bot List Widget](https://infinitybotlist.com/bots/810568485905236018/widget?size=small)](https://infinitybotlist.com/bots/810568485905236018) [![Infinity Bot List Widget](https://infinitybotlist.com/bots/810568485905236018/widget?size=small)](https://infinitybotlist.com/bots/791761831734804510)
+[![Infinity Bot List Widget](https://infinitybotlist.com/bots/810568485905236018/widget?size=small)](https://infinitybotlist.com/bots/810568485905236018) [![Infinity Bot List Widget](https://infinitybotlist.com/bots/791761831734804510/widget?size=small)](https://infinitybotlist.com/bots/791761831734804510)
 
 [![Infinity Bot List Widget](https://infinitybotlist.com/bots/857564240784916490/widget?size=small)](https://infinitybotlist.com/bots/857564240784916490)
