@@ -13,4 +13,4 @@
 - Developer for Dscjobs: [Visit](https://dscjobs.org/)
 
 
-![](https://discord-md-badge.vercel.app/api/shield/251736315001831425?theme=discord)
+![https://discord.com/users/251736315001831425](https://discord-md-badge.vercel.app/api/shield/251736315001831425?theme=discord)
