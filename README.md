@@ -4,6 +4,10 @@
 
 - Head Developer/Owner El Mod: [Invite](https://discord.com/oauth2/authorize?client_id=857564240784916490&permissions=1559751927&scope=bot)
 
+- Head Staff for Paradise Bot List (PBL) [Visit](https://paradisebots.net/)
+
+- Moderator for Ininfity Bot List (IBL) [Visit](https://infinitybotlist.com/)
+
 - Developer for DisDevelopment: [Join](https://discord.gg/ABkPPztHdE)
 
 - Follow DisDevelopment on twitter: [Follow](https://twitter.com/DisDevelopmentt)
