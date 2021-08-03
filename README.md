@@ -13,31 +13,4 @@
 - Developer for Dscjobs: [Visit](https://dscjobs.org/)
 
 
-```JS
-const Developer = require("Developer");
-const stressed = new Issue();
-
-class Harley200317 extends Developer = {
-  constructor(coder, options={ life: stressed }) {
-    super(coder);
-     pronouns: ["he", "him"],
-     working_on: ["EasterBot", "El Mod", "ChristmasCountdown"],
-     languages: ["Node.js", "HTML", "CSS", "C#],
-     learning: ["VUE"]
-   }
-  async technologies: {
-    projects: {
-      discordbot: ["EasterBot", "El Mod"],
-      packages: []
-    },
-    frontend: {
-      libraries: ["Express"],
-      css: ["CSS", "Bootstrap", "SCSS"]
-    },
-    backend: {
-      js: ["Express.js", "Discord.js", "Node.js", ]
-     },
-    databases: ["MongoDB", "MySQL"]
-  },
-};
-```
+![](https://discord-md-badge.vercel.app/api/shield/251736315001831425)
