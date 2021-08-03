@@ -1,4 +1,4 @@
-- Head Developer/Owner EasterBot: [Invite](https://discord.com/api/oauth2/authorize?client_id=810568485905236018&permissions=268954705&scope=bot) ![](https://discord-md-badge.vercel.app/api/shield/bot/810568485905236018)
+- Head Developer/Owner EasterBot: [Invite](https://discord.com/api/oauth2/authorize?client_id=810568485905236018&permissions=268954705&scope=bot) 
 
 - Head Developer/Owner ChristmasCountdown: [Coming Soon](#)
 
