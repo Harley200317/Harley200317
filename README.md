@@ -21,7 +21,13 @@
 
 <br />
 
-## My GitHub Stats:
-
+<details>
+<summary>My stats?</summary>
+<br>
+I mostly use Private Repos or Organizations 
+  
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harley200317&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harley200317&theme=radical)
+
+</details>
