@@ -1,3 +1,6 @@
+<br />
+
+## My Projects:
 - Head Developer/Owner EasterBot: [Invite](https://discord.com/api/oauth2/authorize?client_id=810568485905236018&permissions=268954705&scope=bot) 
 
 - Head Developer/Owner ChristmasCountdown: [Coming Soon](#)
@@ -16,9 +19,9 @@
 
 - Developer for Dscjobs: [Visit](https://dscjobs.org/)
 
+<br />
 
-![https://discord.com/users/251736315001831425](https://discord-md-badge.vercel.app/api/shield/251736315001831425?theme=discord)
+## My GitHub Stats:
 
-[![Infinity Bot List Widget](https://infinitybotlist.com/bots/810568485905236018/widget?size=small)](https://infinitybotlist.com/bots/810568485905236018) [![Infinity Bot List Widget](https://infinitybotlist.com/bots/791761831734804510/widget?size=small)](https://infinitybotlist.com/bots/791761831734804510)
-
-[![Infinity Bot List Widget](https://infinitybotlist.com/bots/857564240784916490/widget?size=small)](https://infinitybotlist.com/bots/857564240784916490) [![Infinity Bot List Widget](https://infinitybotlist.com/bots/780117264455958558/widget?size=small)](https://infinitybotlist.com/bots/780117264455958558)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harley200317&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harley200317&theme=radical)
