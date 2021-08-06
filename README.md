@@ -19,6 +19,8 @@
 
 - Developer for Dscjobs: [Visit](https://dscjobs.org/)
 
+- Developer for DscReviews: [Coming Soon](#)
+
 <br />
 
 <details>
