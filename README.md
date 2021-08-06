@@ -9,7 +9,7 @@
 
 - Head Staff for Paradise Bot List (PBL) [Visit](https://paradisebots.net/)
 
-- Moderator for Ininfity Bot List (IBL) [Visit](https://infinitybotlist.com/)
+- Moderator for Infinity Bot List (IBL) [Visit](https://infinitybotlist.com/)
 
 - Developer for DisDevelopment: [Join](https://discord.gg/ABkPPztHdE)
 
