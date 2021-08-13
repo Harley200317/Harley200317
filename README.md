@@ -1,7 +1,7 @@
 <br />
 
 ## My Projects:
-- Owner of: [EasterBot](https://discord.com/api/oauth2/authorize?client_id=810568485905236018&permissions=268954705&scope=bot) | [ChristmasCountdown](#) | [El Mod](https://discord.com/oauth2/authorize?client_id=857564240784916490&permissions=1559751927&scope=bot)
+- Owner of: [EasterBot](https://discord.com/api/oauth2/authorize?client_id=810568485905236018&permissions=268954705&scope=bot) | [ChristmasCountdown](#) | [El Mod](https://discord.com/oauth2/authorize?client_id=857564240784916490&permissions=1559751927&scope=bot) | [Halloween Bot](https://discord.com/api/oauth2/authorize?client_id=852564657674649636&permissions=139586817089&scope=bot%20applications.commands)
 
 - Staff for: [Paradise Bot List](https://paradisebots.net/) | [Infinity Bot List](https://infinitybotlist.com/) | [WidgetStyle](https://www.widgetstyle.xyz/) | [Dscjobs](https://dscjobs.org/) | [DscReviews](#)
 
