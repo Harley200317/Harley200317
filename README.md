@@ -5,12 +5,10 @@
 
 - Staff for: [Paradise Bot List](https://paradisebots.net/) | [Infinity Bot List](https://infinitybotlist.com/)
 
-
-<br>
-## Old Projects:
+Old Projects:
 
 WidgetStyle | Dscjobs | DscReviews
-<br />
+
 
 <details>
 <summary>My stats?</summary>
