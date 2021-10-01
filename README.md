@@ -5,8 +5,8 @@
 
 - Staff for: [Paradise Bot List](https://paradisebots.net/) | [Infinity Bot List](https://infinitybotlist.com/)
 
-<br />
-<br />
+
+<br>
 ## Old Projects:
 
 WidgetStyle | Dscjobs | DscReviews
