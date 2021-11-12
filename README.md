@@ -17,7 +17,7 @@ WidgetStyle | Dscjobs | DscReviews
 <br>
  
 [![Infinity Bot List Widget](https://infinitybotlist.com/bots/810568485905236018/widget?size=medium)]
-  
+ 
 [![Infinity Bot List Widget](https://infinitybotlist.com/bots/857564240784916490/widget?size=medium)]
   
 [![Infinity Bot List Widget](https://infinitybotlist.com/bots/852564657674649636/widget?size=medium)]
