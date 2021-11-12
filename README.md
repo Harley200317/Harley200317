@@ -15,9 +15,9 @@ WidgetStyle | Dscjobs | DscReviews
 <details>
 <summary>My Bots</summary>
 <br>
-[![Infinity Bot List Widget](https://infinitybotlist.com/bots/810568485905236018/widget?size=medium)](https://infinitybotlist.com/bots/810568485905236018)
-[![Infinity Bot List Widget](https://infinitybotlist.com/bots/857564240784916490/widget?size=medium)](https://infinitybotlist.com/bots/857564240784916490)
-[![Infinity Bot List Widget](https://infinitybotlist.com/bots/852564657674649636/widget?size=medium)](https://infinitybotlist.com/bots/852564657674649636)
-[![Infinity Bot List Widget](https://infinitybotlist.com/bots/791761831734804510/widget?size=medium)](https://infinitybotlist.com/bots/791761831734804510)
+[![Infinity Bot List Widget](https://infinitybotlist.com/bots/810568485905236018/widget?size=medium)(https://infinitybotlist.com/bots/810568485905236018)
+[![Infinity Bot List Widget](https://infinitybotlist.com/bots/857564240784916490/widget?size=medium)(https://infinitybotlist.com/bots/857564240784916490)
+[![Infinity Bot List Widget](https://infinitybotlist.com/bots/852564657674649636/widget?size=medium)(https://infinitybotlist.com/bots/852564657674649636)
+[![Infinity Bot List Widget](https://infinitybotlist.com/bots/791761831734804510/widget?size=medium)(https://infinitybotlist.com/bots/791761831734804510)
 
 </details>
