@@ -11,7 +11,10 @@ I am from the United Kingdom. I'm a Verified Discord Bot Developer as well as a 
   <a href="https://twitter.com/Harley200317">
     <img src="https://img.shields.io/badge/Twitter-Harley200317-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: Harley200317"/>
   </a>
-  
+    <a href="https://ko-fi.com/H2H87YNCL">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="KO-FI: Harley200317"/>
+  </a>
+   
 </p>
 
 <hr />
