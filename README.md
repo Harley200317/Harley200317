@@ -70,8 +70,8 @@ I am from the United Kingdom. I'm a Verified Discord Bot Developer as well as a 
   </summary>
     <p align="center">
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Connor200024&show_icons=true&theme=dracula" alt="Connor200024" height="200"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connor200024&hide=lua&theme=dracula" alt="Connor200024's github stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harley200317&show_icons=true&theme=dracula" alt="Connor200024" height="200"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harley200317&hide=lua&theme=dracula" alt="Connor200024's github stats"/>
    <div>
     
    </div>
