@@ -95,14 +95,6 @@ src="https://cdn.discordapp.com/avatars/810568485905236018/6c08920ebe32458e3689b
     <a href="https://discord.com/api/oauth2/authorize?client_id=791761831734804510&permissions=137442225217&scope=bot%20applications.commands"><img alt="ChristmasBot Logo" title="ChristmasBot Logo" height="15" width="15"
 src="https://cdn.discordapp.com/avatars/791761831734804510/c7be2f38715c58824846861542b093a5.webp?size=512"> ChristmasBot</a>
 </details>
-  <details open>
-  <summary>
-    <code>👨‍💻</code> Projects I Develop for:
-  </summary>
-  <p>
-<a href="https://dscjobs.org"><img alt="DscJobs Logo" title="DscJobs Logo" height="15" width="15" src="https://media.discordapp.net/attachments/653733403841134600/919061597970903130/IMG_1661.png"> DscJobs</a>
- </details>
-
 
 <hr />
 
