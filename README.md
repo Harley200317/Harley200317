@@ -94,6 +94,14 @@ src="https://cdn.discordapp.com/avatars/810568485905236018/6c08920ebe32458e3689b
     <br />
     <a href="https://discord.com/api/oauth2/authorize?client_id=791761831734804510&permissions=137442225217&scope=bot%20applications.commands"><img alt="ChristmasBot Logo" title="ChristmasBot Logo" height="15" width="15"
 src="https://cdn.discordapp.com/avatars/791761831734804510/c7be2f38715c58824846861542b093a5.webp?size=512"> ChristmasBot</a>
+        <br />
+    <a href="https://discord.gg/czrdgdCbuM"><img alt="Seasonal Logo" title="Seasonal Logo" height="15" width="15"
+src="https://cdn.seasonaldevelopment.xyz/images/seasonaldev.png"> Seasoanl Development</a>
+            <br />
+    <a href="https://discord.gg/e36tT3eQx9"><img alt="Tropical Logo" title="Tropical Logo" height="15" width="15"
+src="https://cdn.tropicalbotlist.xyz/images/tropicalbotlist.png"> TropicalBotList</a>
+    
+    
 </details>
 
 <hr />
