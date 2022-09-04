@@ -87,6 +87,7 @@ I am from the United Kingdom. I'm a Verified Discord Bot Developer as well as a 
   </summary>
   <p>
 TropicalBotList
+    <br />
 SeasonalDevelopment
 </details>
 
