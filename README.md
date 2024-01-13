@@ -17,18 +17,16 @@
 
 
 # Discord Servers 🚨
-- SeasonalHosting: [SeasonalHosting.xyz](https://discord.gg/9pCuBUGzV5)
-- SeasonalBots: [SeasonalBots](https://discord.gg/czrdgdCbuM)
+- NodeByte: [NodeByte.host](https://nodebyte.host/)
 
 # Websites 👀
 
-ChristmasBot: [Christmas](https://christmasbot.xyz/)
+ChristmasBot: [Christmas](https://christmasbot.net/)
 
 EasterBot: [Easter](https://easterbot.xyz/)
 
-HalloweenBot: [Halloween](https://halloweenbot.xyz/)
+HalloweenBot: [Halloween](https://halloweenbot.com/)
 
-SeasonalHosting: [Hosting](https://seasonalhosting.xyz/)
 
 # Bots 🤖
 
