@@ -16,25 +16,26 @@
 - 🤖 Verified Bot Developer.
 
 
-# Discord Servers 🚨
-- NodeByte: [NodeByte.host](https://nodebyte.host/)
+# Company 🚨
+- NodeByte Hosting: [NodeByte.host](https://nodebyte.host/)
+- NodeByte LTD: [NodeByte.host](https://nodebyte.co.uk/)
 
 # Websites 👀
 
-ChristmasBot: [Christmas](https://christmasbot.net/)
+ChristmasBot: [Christmas](https://christmasbot.org/)
 
-EasterBot: [Easter](https://easterbot.xyz/)
+EasterBot: [Easter](#)
 
 HalloweenBot: [Halloween](https://halloweenbot.com/)
 
 
 # Bots 🤖
 
-HalloweenBot: [Halloween](https://discord.com/oauth2/authorize?client_id=852564657674649636&permissions=2147863617&scope=bot%20applications.commands)
+HalloweenBot: [Halloween](https://discord.com/oauth2/authorize?client_id=852564657674649636)
 
-EasterBot: [Easter](https://discord.com/oauth2/authorize?client_id=810568485905236018&permissions=379968&scope=bot%20applications.commands)
+EasterBot: [Easter](#)
 
-ChristmasBot: [Christmas](https://discord.com/oauth2/authorize?client_id=791761831734804510&permissions=3492928&&scope=bot%20applications.commands)
+ChristmasBot: [Christmas](https://discord.com/oauth2/authorize?client_id=791761831734804510&permissions=412588821569&scope=bot%20applications.commands)
 
 
 # Coding Languages 💻
